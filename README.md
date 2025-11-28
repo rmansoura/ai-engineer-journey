@@ -14,3 +14,14 @@ This repository documents the journey of becoming an AI Engineer.
 
 ## Getting Started
 Check out [ROADMAP.md](ROADMAP.md) to see the plan.
+
+## Quick Start
+1.  **Install dependencies**:
+    ```bash
+    uv sync
+    ```
+2.  **Launch Jupyter Notebook**:
+    ```bash
+    uv run jupyter notebook
+    ```
+    Or simply open a `.ipynb` file in VSCodium.
