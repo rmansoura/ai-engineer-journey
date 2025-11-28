@@ -40,6 +40,12 @@ Welcome to your journey to becoming an AI Engineer! This roadmap is designed to 
 We will track your progress here.
 
 ### Day 1: Setting up the Environment
-- [ ] Install Python and VS Code.
-- [ ] Set up a virtual environment.
-- [ ] Write your first "Hello World" in a Jupyter Notebook.
+- [x] Install Python and VS Code (VSCodium).
+- [x] Set up a virtual environment (uv).
+- [x] Write your first "Hello World" in a Jupyter Notebook.
+
+### Day 2: Python for Data Science (NumPy & Pandas)
+- [ ] Create a new notebook `day_002_data_science.ipynb`.
+- [ ] Master NumPy Arrays (creation, math, broadcasting).
+- [ ] Master Pandas DataFrames (creation, selection, filtering).
+
